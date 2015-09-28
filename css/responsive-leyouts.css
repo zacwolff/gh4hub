@@ -22,7 +22,7 @@
 }
 
 .domain_search_home #domain-searchform #dsearch {
-    width: 58%;
+    width: 57%;
 }
 
 .top_nav .right a.login_but {
@@ -314,14 +314,44 @@
     margin: 463px 0px 0px 240px;
 }
 
+/*---------------------------------------------------
+	layout3
+------------------------------------------------------*/
+.section_holder40 .services_box {
+    width: 100%;
+}
+.section_holder40 .services_box.nomargin {
+    margin: 0px 0 0px 0px;
+}
+.section_holder40 .services_box .icon {
+    width: 10%;
+}
 
-
-
-
-
-
-
-
+.section_holder40 .services_box .text {
+    width: 90%;
+}
+.section_holder40 .list_holder .text {
+    width: 72%;
+}
+.section_holder40 .list_holder .text {
+    width: 72%;
+}
+.section_holder40 .list_holder .icon_holder {
+    width: 28%;
+}
+.section_holder39 .text {
+    width: 100%;
+}
+.section_holder39 .img {
+    width:100%;
+}
+.section_holder39 .text_left {
+    width:100%;
+}
+.section_holder39 .img_right {
+    width: 100%;
+	text-align:left;
+}
 
 
 
@@ -475,7 +505,7 @@
     width: 100%;
 }
 
-.section_holder1, .section_holder2, .section_holder3, .section_holder4, .section_holder5, .section_holder6, .section_holder7, .section_holder8, .section_holder9, .section_holder10, .section_holder11, .section_holder12, .section_holder13, .section_holder14, .section_holder15, .section_holder16, .section_holder17, .section_holder19, .section_holder20, .section_holder21, .section_holder22, .section_holder23, .section_holder24, .section_holder25, .section_holder26, .section_holder27, .section_holder28, .section_holder29, .section_holder30 {
+.section_holder1, .section_holder2, .section_holder3, .section_holder4, .section_holder5, .section_holder6, .section_holder7, .section_holder8, .section_holder9, .section_holder10, .section_holder11, .section_holder12, .section_holder13, .section_holder14, .section_holder15, .section_holder16, .section_holder17, .section_holder19, .section_holder20, .section_holder21, .section_holder22, .section_holder23, .section_holder24, .section_holder25, .section_holder26, .section_holder27, .section_holder28, .section_holder29, .section_holder30, .section_holder31, .section_holder32, .section_holder33, .section_holder34, .section_holder35, .section_holder36, .section_holder37, .section_holder38, .section_holder39, .section_holder40 {
 	padding:60px 0 60px 0;
 }
 .section_holder4.two, .section_holder5.two, .section_holder2.two {
@@ -954,9 +984,53 @@ ul.payment_logos.two {
     width: 25%;
 }
 
+/*---------------------------------------------------
+	layout3
+------------------------------------------------------*/
+.section_holder40 .services_box {
+    width: 100%;
+}
+.section_holder40 .services_box.nomargin {
+    margin: 0px 0 0px 0px;
+}
+.section_holder40 .services_box .icon {
+    width: 10%;
+}
 
-
-
+.section_holder40 .services_box .text {
+    width: 90%;
+}
+.section_holder40 .list_holder .text {
+    width: 72%;
+}
+.section_holder40 .list_holder .text {
+    width: 72%;
+}
+.section_holder40 .list_holder .icon_holder {
+    width: 28%;
+}
+.section_holder39 .text {
+    width: 100%;
+}
+.section_holder39 .img {
+    width:100%;
+}
+.section_holder39 .text_left {
+    width:100%;
+}
+.section_holder39 .img_right {
+    width: 100%;
+	text-align:left;
+}
+.section_holder38 .text_holder .icon .arrow {
+	display:none;
+}
+.section_holder38 .text_holder .text {
+    width: 90%;
+}
+.section_holder38 .text_holder .icon {
+    width: 10%;
+}
 
 /*---------------------------------------------------
 	elements
@@ -1037,6 +1111,23 @@ ul.payment_logos.two {
 .price_table_st2.last {
 	margin-bottom:none;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1127,7 +1218,7 @@ ul.payment_logos.two {
 
 
 .domain_search_home #domain-searchform #dsearch {
-    width: 54%;
+    width: 53%;
 }
 
 .section_title {
@@ -1229,10 +1320,10 @@ ul.payment_logos.two {
 .section_holder4.two img {
    width:100%;
 }
-.section_holder1, .section_holder2, .section_holder3, .section_holder4, .section_holder5, .section_holder6, .section_holder7, .section_holder8, .section_holder9, .section_holder10, .section_holder11, .section_holder12, .section_holder13, .section_holder14, .section_holder15, .section_holder16, .section_holder17, .section_holder19, .section_holder20, .section_holder21, .section_holder22, .section_holder23, .section_holder24, .section_holder25, .section_holder26, .section_holder27, .section_holder28, .section_holder29, .section_holder30 {
+.section_holder1, .section_holder2, .section_holder3, .section_holder4, .section_holder5, .section_holder6, .section_holder7, .section_holder8, .section_holder9, .section_holder10, .section_holder11, .section_holder12, .section_holder13, .section_holder14, .section_holder15, .section_holder16, .section_holder17, .section_holder19, .section_holder20, .section_holder21, .section_holder22, .section_holder23, .section_holder24, .section_holder25, .section_holder26, .section_holder27, .section_holder28, .section_holder29, .section_holder30, .section_holder31, .section_holder32, .section_holder33, .section_holder34, .section_holder35, .section_holder36, .section_holder37, .section_holder38, .section_holder39, .section_holder40, .section_holder41 {
 	padding:50px 0 50px 0;
 }
-.section_holder4.two, .section_holder5.two, .section_holder6.two, .section_holder3.two, .section_holder2.two, .section_holder11.two, .section_holder7.two, .section_holder12.two, .footer1.two {
+.section_holder4.two, .section_holder5.two, .section_holder6.two, .section_holder3.two, .section_holder2.two, .section_holder11.two, .section_holder7.two, .section_holder12.two, .footer1.two, .section_holder33.two, {
 	padding:50px 0 50px 0;
 }
 .lt_title_bottomtext {
@@ -1668,7 +1759,6 @@ ul.payment_logos.two {
     width: 64%;
 }
 .section_holder31 ul.tld_list li {
-	width:78px;
     margin: 0px 8px 8px 0px;
 }
 .section_holder31 .img img {
@@ -1707,11 +1797,68 @@ ul.payment_logos.two {
     width: 38%;
 }
 
+/*---------------------------------------------------
+	layout3
+------------------------------------------------------*/
+.section_holder40 .services_box {
+    width: 100%;
+}
+.section_holder40 .services_box.nomargin {
+    margin: 0px 0 0px 0px;
+}
+.section_holder40 .services_box .icon {
+    width: 10%;
+}
 
+.section_holder40 .services_box .text {
+    width: 90%;
+}
+.section_holder40 .list_holder .text {
+    width: 72%;
+}
+.section_holder40 .list_holder .text {
+    width: 72%;
+}
+.section_holder40 .list_holder .icon_holder {
+    width: 28%;
+}
+.section_holder39 .text {
+    width: 100%;
+}
+.section_holder39 .img {
+    width:100%;
+}
+.section_holder39 .text_left {
+    width:100%;
+}
+.section_holder39 .img_right {
+    width: 100%;
+	text-align:left;
+}
+.section_holder38 .text_holder .icon .arrow {
+	display:none;
+}
+.section_holder38 .text_holder .text {
+    width: 90%;
+}
+.section_holder38 .text_holder .icon {
+    width: 10%;
+}
+.top_nav.three{ display:none;}
 
+.section_holder41 .text {
+    width: 77%;
+}
+.section_holder41 .text {
+    width: 77%;
+}
+.section_holder41 .img_holder {
+    width: 23%;
+}
 
-
-
+.section_holder41 .one_half, .section_holder40 .one_half{ 
+margin-bottom:50px;
+}
 
 
 
@@ -1813,7 +1960,6 @@ ul.payment_logos.two {
 	width: 290px;
 }
 
-
 /*updated v1.1*/
 .price_table_st2 {
 	margin-bottom:200px;
@@ -1824,6 +1970,7 @@ ul.payment_logos.two {
 .price_table_st2 .text_holder .list li.last {
 	margin-bottom:100px;
 }
+
 
 
 
@@ -1921,10 +2068,10 @@ ul.payment_logos.two {
 	margin: 0 auto;
 }
 
-.section_holder1, .section_holder2, .section_holder3, .section_holder4, .section_holder5, .section_holder6, .section_holder7, .section_holder8, .section_holder9, .section_holder10, .section_holder11, .section_holder12, .section_holder13, .section_holder14, .section_holder15, .section_holder16, .section_holder17, .section_holder19, .section_holder20, .section_holder21, .section_holder22, .section_holder23, .section_holder24, .section_holder25, .section_holder26, .section_holder27, .section_holder28, .section_holder29, .section_holder30 {
+.section_holder1, .section_holder2, .section_holder3, .section_holder4, .section_holder5, .section_holder6, .section_holder7, .section_holder8, .section_holder9, .section_holder10, .section_holder11, .section_holder12, .section_holder13, .section_holder14, .section_holder15, .section_holder16, .section_holder17, .section_holder19, .section_holder20, .section_holder21, .section_holder22, .section_holder23, .section_holder24, .section_holder25, .section_holder26, .section_holder27, .section_holder28, .section_holder29, .section_holder30, .section_holder31, .section_holder32, .section_holder33, .section_holder34, .section_holder35, .section_holder36, .section_holder37, .section_holder38, .section_holder39, .section_holder40, .section_holder41 {
 	padding:40px 0 40px 0;
 }
-.section_holder4.two, .section_holder5.two, .section_holder6.two, .section_holder3.two, .section_holder2.two, .section_holder11.two, .section_holder7.two, .section_holder12.two, .footer1.two {
+.section_holder4.two, .section_holder5.two, .section_holder6.two, .section_holder3.two, .section_holder2.two, .section_holder11.two, .section_holder7.two, .section_holder12.two, .footer1.two, .section_holder33.two, {
 	padding:40px 0 40px 0;
 }
 
@@ -1934,9 +2081,12 @@ ul.payment_logos.two {
 /*sections*/
 
 .domain_search_home #domain-searchform #dsearch {
-    width: 74%;
+    width: 51%;
 }
-
+.domain_search_home #searchsubmit {
+    padding: 5px 8px;
+    margin-left: 2px;
+}
 .section_title {
     width: 100%;
 }
@@ -2606,9 +2756,7 @@ ul.payment_logos.two {
 /*---------------------------------------------------
 	Layout 2
 ------------------------------------------------------*/
-.section_holder31 ul.tld_list li {
-    width: 85px;
-}
+
 .section_holder31 .drlist {
     font-size: 11px;
 	width: 57px;
@@ -2655,12 +2803,6 @@ ul.payment_logos.two {
 .section_holder34 .readmore_but9 {
     padding: 12px 30px;
 }
-.section_holder33 {
-    padding: 30px 0px 30px;
-}
-.section_holder35 {
-    padding: 50px 0px 0;
-}
 .section_holder36 .flex-control-nav {
     width: 100%;
     position: absolute;
@@ -2685,6 +2827,70 @@ ul.payment_logos.two {
 #searchsubmit2 {
     padding: 4px 32px;
 }
+
+/*---------------------------------------------------
+	layout3
+------------------------------------------------------*/
+.section_holder40 .services_box {
+    width: 100%;
+}
+.section_holder40 .services_box.nomargin {
+    margin: 0px 0 0px 0px;
+}
+.section_holder40 .services_box .icon {
+    width: 20%;
+}
+
+.section_holder40 .services_box .text {
+    width: 80%;
+}
+.section_holder40 .list_holder .text {
+    width: 72%;
+}
+.section_holder40 .list_holder .text {
+    width: 53%;
+}
+.section_holder40 .list_holder .icon_holder {
+    width: 47%;
+}
+.section_holder39 .text {
+    width: 100%;
+}
+.section_holder39 .img {
+    width:100%;
+}
+.section_holder39 .text_left {
+    width:100%;
+}
+.section_holder39 .img_right {
+    width: 100%;
+	text-align:left;
+}
+.section_holder38 .text_holder .icon .arrow {
+	display:none;
+}
+.section_holder38 .text_holder .text {
+    width: 80%;
+}
+.section_holder38 .text_holder .icon {
+    width: 20%;
+}
+.top_nav.three{ display:none;}
+
+.section_holder41 .text {
+    width: 77%;
+}
+.section_holder41 .text {
+    width: 77%;
+}
+.section_holder41 .img_holder {
+    width: 23%;
+}
+
+.section_holder41 .one_half, .section_holder40 .one_half{ 
+margin-bottom:50px;
+}
+
 
 /*---------------------------------------------------
 	elements
@@ -2836,22 +3042,5 @@ background-position: -25px 11px;
 }
 
 
-
-}
-
-
-
-/*styles for updated 1.1*/
-
-@media only screen and (min-width: 640px) and (max-width: 767px){
-	
-.section_holder3 .right .img_holder {
-    width: 450px;
-}
-	
-.section_holder3 .right .img_holder .shape {
-    width: 450px;
-	margin: 81px 0px 0px;
-}
 
 }

@@ -21,20 +21,11 @@
 .tp-caption.slider_but1 a {
     background-color: #aaaaaa;
 }
-.domain_search_home {
-    background-color: #aaaaaa;
-}
 .section_title .big span {
     color: #aaaaaa;
 }
 .section_title_line {
 	background:url(../../images/colors/grey/title_line1.png) 0 0 no-repeat;
-}
-.domain_search_home #domain-searchform #dsearch {
-    border: 1px solid #aaaaaa;
-}
-.domain_search_home .drlist {
-    border: 1px solid #aaaaaa;
 }
 .section_holder1 .box .arrow_up {
     border-bottom: 20px solid #ff6262;
@@ -171,6 +162,7 @@
 .section_holder5 .cont_holder.active h4 {
     color: #aaaaaa;
 }
+
 .section_holder5 .cont_holder.active p {
     color: #aaaaaa;
 }
@@ -352,6 +344,7 @@
     background-color: #aaaaaa;
 }
 .section_holder14 .one_fourth:hover .icon {
+
     color: #aaaaaa;
     border: 1px solid #aaaaaa;
 }
@@ -557,9 +550,9 @@ ul.nav > li > a.active {
 /*hover styles*/	
 .section_holder33 .price_table:hover .custom-select3:after {
 	background: #aaaaaa;
-	border-top: 1px solid #cecece;
-	border-right: 1px solid #cecece;
-	border-bottom: 1px solid #cecece;
+	border-top: 1px solid #dfdfdf;
+	border-right: 1px solid #dfdfdf;
+	border-bottom: 1px solid #dfdfdf;
 }
 .section_holder33 .price_table:hover {
 	background-color: #aaaaaa;
@@ -567,13 +560,13 @@ ul.nav > li > a.active {
 	margin: 20px 0 0 0;
 }
 .section_holder33 .price_table:hover .title {
-	border-bottom: 1px solid #cecece;
+	border-bottom: 1px solid #dfdfdf;
 }
 .section_holder33 .price_table:hover .price {
-	border-bottom: 1px solid #cecece;
+	border-bottom: 1px solid #dfdfdf;
 }
 .section_holder33 .price_table:hover .plan_features li {
-	border-bottom: 1px solid #cecece;
+	border-bottom: 1px solid #dfdfdf;
 }
 .section_holder33 .price_table:hover .singup_but {
 	color: #272727;
@@ -581,19 +574,19 @@ ul.nav > li > a.active {
 }
 .section_holder33 .price_table:hover .custom-select3 select {
     background: none repeat scroll 0% 0% #aaaaaa;
-    border: 1px solid #cecece;
+    border: 1px solid #dfdfdf;
 }
 
 /*active styles*/	
 .section_holder33 .price_table.custom-select3 select {
 	background-color: #aaaaaa;
-	border: 1px solid #cecece;
+	border: 1px solid #dfdfdf;
 }
 .section_holder33 .price_table.active .custom-select3:after {
 	background: #aaaaaa;
-	border-top: 1px solid #cecece;
-	border-right: 1px solid #cecece;
-	border-bottom: 1px solid #cecece;
+	border-top: 1px solid #dfdfdf;
+	border-right: 1px solid #dfdfdf;
+	border-bottom: 1px solid #dfdfdf;
 }
 .section_holder33 .price_table.active {
 	position:relative;
@@ -602,17 +595,17 @@ ul.nav > li > a.active {
 	margin: 0 0 0 0;
 }
 .section_holder33 .price_table.active .title {
-	border-bottom: 1px solid #cecece;
+	border-bottom: 1px solid #dfdfdf;
 }
 .section_holder33 .price_table.active .price {
-	border-bottom: 1px solid #cecece;
+	border-bottom: 1px solid #dfdfdf;
 }
 .section_holder33 .price_table.active .plan_features li {
-	border-bottom: 1px solid #cecece;
+	border-bottom: 1px solid #dfdfdf;
 }
 .section_holder33 .price_table.active .custom-select3 select {
     background: none repeat scroll 0% 0% #aaaaaa;
-    border: 1px solid #cecece;
+    border: 1px solid #dfdfdf;
 }
 .section_holder33 .price_table .arrow {
 	background:url(../../images/colors/grey/site-img56.png) 0 0 no-repeat;
@@ -706,29 +699,29 @@ ul.nav > li > a.active {
 
 .section_holder2.two .one_fourth:hover .custom-select3 select {
 	background-color: #aaaaaa;
-	border: 1px solid #cecece;
+	border: 1px solid #dfdfdf;
 }
 .section_holder2.two .one_fourth:hover .custom-select3:after {
 	background: #aaaaaa;
-	border-top: 1px solid #cecece;
-	border-right: 1px solid #cecece;
-	border-bottom: 1px solid #cecece;
+	border-top: 1px solid #dfdfdf;
+	border-right: 1px solid #dfdfdf;
+	border-bottom: 1px solid #dfdfdf;
 }
 
 .section_holder2.two .one_fourth:hover .price_table {
 	background-color: #aaaaaa;
 }
 .section_holder2.two .one_fourth:hover .title {
-	border-bottom: 1px solid #cecece;
+	border-bottom: 1px solid #dfdfdf;
 }
 .section_holder2.two .one_fourth:hover .price {
-	border-bottom: 1px solid #cecece;
+	border-bottom: 1px solid #dfdfdf;
 }
 .section_holder2.two .one_fourth.active .price {
-	border-bottom: 1px solid #cecece;
+	border-bottom: 1px solid #dfdfdf;
 }
 .section_holder2.two .one_fourth:hover .plan_features li {
-	border-bottom: 1px solid #cecece;
+	border-bottom: 1px solid #dfdfdf;
 }
 .section_holder2.two .one_fourth:hover .arrow_up {
 	border-bottom: 35px solid #aaaaaa;
@@ -741,29 +734,29 @@ ul.nav > li > a.active {
 
 .section_holder2.two .one_fourth.active .custom-select3 select {
 	background-color: #aaaaaa;
-	border: 1px solid #cecece;
+	border: 1px solid #dfdfdf;
 }
 .section_holder2.two .one_fourth.active .custom-select3:after {
 	background: #aaaaaa;
-	border-top: 1px solid #cecece;
-	border-right: 1px solid #cecece;
-	border-bottom: 1px solid #cecece;
+	border-top: 1px solid #dfdfdf;
+	border-right: 1px solid #dfdfdf;
+	border-bottom: 1px solid #dfdfdf;
 }
 
 .section_holder2.two .one_fourth.active .price_table {
 	background-color: #aaaaaa;
 }
 .section_holder2.two .one_fourth.active .title {
-	border-bottom: 1px solid #cecece;
+	border-bottom: 1px solid #dfdfdf;
 }
 .section_holder2.two .one_fourth.active .price {
-	border-bottom: 1px solid #cecece;
+	border-bottom: 1px solid #dfdfdf;
 }
 .section_holder2.two .one_fourth.active .price {
-	border-bottom: 1px solid #cecece;
+	border-bottom: 1px solid #dfdfdf;
 }
 .section_holder2.two .one_fourth.active .plan_features li {
-	border-bottom: 1px solid #cecece;
+	border-bottom: 1px solid #dfdfdf;
 }
 .section_holder2.two .one_fourth.active .arrow_up {
 	border-bottom: 35px solid #aaaaaa;
@@ -775,7 +768,7 @@ ul.nav > li > a.active {
 .lt_title_line.two {
 	background:url(../../images/colors/grey/title_line7.png) center top no-repeat;
 }
-.green {
+.grey {
     color: #aaaaaa;
 }
 
@@ -791,3 +784,75 @@ ul.nav > li > a.active {
 .section_holder21 .one_fourth:hover h5 {
     color: #aaaaaa;
 }
+
+/*layout3*/
+.tp-caption.offerbadge4 {
+	background:url(../../images/colors/grey/badge_bg2.png) 0 0 no-repeat;
+}
+.section_holder38 .text_holder.active {
+    background-color: #aaaaaa;
+}
+.section_holder38 .text_holder:hover {
+    background-color: #aaaaaa;
+}
+.cl_title_line_left {
+	background:url(../../images/colors/grey/title_line11.png) 0 0 no-repeat;
+}
+.section_holder39 .offerbadge {
+	background:url(../../images/colors/grey/site-img77.png) 0 0 no-repeat;
+}
+.section_holder39 .text .big .hili {
+    color: #aaaaaa;
+}
+
+.section_holder33.two .plan_info .singup_but {
+    background-color: #aaaaaa;
+}
+.section_holder33 .price_table.active .singup_but {
+    background-color: #fff;
+}
+.section_holder33 .price_table:hover .singup_but {
+    background-color: #fff;
+}
+
+.section_holder33.two .price_table:hover .custom-select3:after {
+	background: #aaaaaa;
+	border-top: 1px solid #dfdfdf;
+	border-right: 1px solid #dfdfdf;
+	border-bottom: 1px solid #dfdfdf;
+}
+
+.cl_title_line {
+	background:url(../../images/colors/grey/title_line10.png) center top no-repeat;
+}
+.section_holder40 .services_box.active {
+    background-color: #aaaaaa;
+}
+.section_holder40 .services_box:hover {
+    background-color: #aaaaaa;
+}
+.section_holder40 .list_holder:hover h5 {
+    color: #aaaaaa;
+}
+.tabs11 li.active a {
+    color: #aaaaaa;
+}
+.tabs11 li a:hover {
+    color: #aaaaaa;
+}
+.cl_title_line_left.two {
+	background:url(../../images/colors/grey/title_line12.png) 0 0 no-repeat;
+}
+.green {
+    color: #aaaaaa;
+}
+
+
+
+
+
+
+
+
+
+

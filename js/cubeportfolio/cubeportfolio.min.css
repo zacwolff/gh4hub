@@ -109,15 +109,15 @@ border:1px solid #e9e9e9;
 
 .cbp-l-caption-alignCenter .cbp-l-caption-buttonLeft, .cbp-l-caption-alignCenter .cbp-l-caption-buttonRight {
     position: relative;
-	color:#fff;
+	color:#272727;
     transition: left 0.4s cubic-bezier(0.19, 1, 0.22, 1) 0s;
-    background-color: #858484;
+    background-color: #fff;
 }
 
 
 
 .cbp-l-caption-buttonLeft:hover, .cbp-l-caption-buttonRight:hover {
-	color: #161616;
+	color: #fff;
     background-color: #fff;
 }
 
@@ -160,13 +160,13 @@ margin-top:3px
 	
 .cbp-l-filters-alignCenter.two .cbp-filter-item:hover{
 		color:#161616;
-		border:1px solid #119ee7;
+		border:1px solid #fe7e20;
 		}	
 	
 .cbp-l-filters-alignCenter.two .cbp-filter-item-active{
-	border:1px solid #119ee7;
+	border:1px solid #fe7e20;
 	color:#161616;
-	background-color:#119ee7;
+	background-color:#fe7e20;
 		}
 		
 		
@@ -228,7 +228,7 @@ margin-top:3px
 					
 					.cbp-l-filters-alignRight{margin:0 auto 40px;text-align:right}.cbp-l-filters-alignRight .cbp-filter-item{background-color:transparent;color:#8B8B8B;cursor:pointer;font:400 11px "Open Sans",sans-serif;padding:7px 12px;position:relative;overflow:visible;margin:10px 0 0 5px;border:1px solid #E4E2E2;text-transform:uppercase;display:inline-block;-webkit-transition:all .3s ease-in-out;transition:all .3s ease-in-out}.cbp-l-filters-alignRight .cbp-filter-item:hover{color:#2B3444}
 					
-					.cbp-l-filters-alignRight .cbp-filter-item-active{opacity:1;color:#fff!important;background-color:#119ee7;border-color:#119ee7}
+					.cbp-l-filters-alignRight .cbp-filter-item-active{opacity:1;color:#fff!important;background-color:#fe7e20;border-color:#fe7e20}
 					
 
 					

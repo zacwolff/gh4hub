@@ -1022,7 +1022,7 @@ border-style:none;
 	font-size:18px;
 	color:#fff;
 	border-radius:50%;
-	background-color:#119ee7;
+	background-color:#fe7e20;
 	}	
 
 .tp-caption.offerbadge.two{
@@ -1067,6 +1067,44 @@ border-style:none;
 	text-align:center;
 	}
 
+/*offer badges4*/
+.tp-caption.offerbadge4{
+	width:175px;
+	height:175px;
+	margin:0px;
+	padding:40px 0px 0px 0px;
+	float:left;
+	text-align:center;
+	font-size:18px;
+	color:#fff;
+	background:url(../../../../images/sliders/badge_bg2.png) 0 0 no-repeat;
+	}
+.tp-caption.offerbadge4 span.price{
+	margin-top:5px;
+	padding:0px 0px 5px 0px;
+	font-size:30px;
+	font-weight:bold;
+	line-height:40px;
+	text-align:center;
+	}
+/*offer badges5*/	
+.tp-caption.offerbadge5{
+	width:110px;
+	height:110px;
+	padding:20px 0px 0px 0px;
+	font-size:16px;
+	color:#858585;
+	text-align:center;
+	background:url(../../../../images/sliders/badge_bg1.png) 0 0 no-repeat;
+	}
+.tp-caption.offerbadge5 span.price.two{
+	margin-top:5px;
+	padding:0px 0px 5px 0px;
+	font-size:20px;
+	font-weight:bold;
+	line-height:20px;
+	text-align:center;
+	}
 /*slider content*/
 .tp-caption.text1 {
 	position:absolute;
@@ -1136,7 +1174,7 @@ border-style:none;
 .tp-caption.text7 {
 	position:absolute;
 	font-family: 'Roboto', sans-serif;
-	color:#119ee7;
+	color:#fe7e20;
 	font-size: 60px;
 	font-weight: 400;
 	text-transform: uppercase;
@@ -1173,9 +1211,35 @@ border-style:none;
 	padding: 0px 0px 0px 0px;
 }
 .tp-caption.text10 span {
-	color:#119ee7;
+	color:#fe7e20;
 }
-
+.tp-caption.text11 {
+	position:absolute;
+	font-family: 'Roboto', sans-serif;
+	color:#272727;
+	font-size: 60px;
+	font-weight: 200;
+	text-transform: uppercase;
+	padding: 0px 0px 0px 0px;
+}
+.tp-caption.text12 {
+	position:absolute;
+	font-family: 'Roboto', sans-serif;
+	color:#272727;
+	font-size: 70px;
+	font-weight: 800;
+	text-transform: uppercase;
+	padding: 0px 0px 0px 0px;
+}
+.tp-caption.text13 {
+	position:absolute;
+	font-family: 'Roboto', sans-serif;
+	color:#272727;
+	font-size: 70px;
+	font-weight: 500;
+	text-transform: uppercase;
+	padding: 0px 0px 0px 0px;
+}
 .tp-caption.slide_list{
 	margin:0px;
 	padding:0px;
@@ -1221,7 +1285,7 @@ border-style:none;
 	font-weight:normal;
 	color:#fff;
 	text-align: center;
-	background-color:#119ee7;
+	background-color:#fe7e20;
 	}
 
 .tp-caption.tld_text{
@@ -1244,7 +1308,7 @@ border-style:none;
 	text-align: center;
 	text-transform: uppercase;
 	padding: 10px 25px;
-	background-color:#119ee7;
+	background-color:#fe7e20;
 }
 .tp-caption.slider_but1 a:hover {
 	color:#272727;
@@ -2625,6 +2689,17 @@ zoom: 1;
 	height:130px;
 	}
 	
+	
+/*offer badges4*/
+.tp-caption.offerbadge4{
+	padding:80px 0px 0px 0px;
+	background-size:70%;
+	background-position:center center;
+	}
+
+	
+	
+	
 }
 
 
@@ -2706,6 +2781,29 @@ zoom: 1;
 	font-size:18px;
 	line-height:20px;
 	}	
+
+/*offer badges4*/
+.tp-caption.offerbadge4{
+	display:none;
+	}
+.tp-caption.offerbadge5{
+	display:none;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 	
@@ -2791,7 +2889,13 @@ zoom: 1;
 	line-height:20px;
 	}	
 
-
+/*offer badges4*/
+.tp-caption.offerbadge4{
+	display:none;
+	}
+.tp-caption.offerbadge5{
+	display:none;
+	}
 
 
 

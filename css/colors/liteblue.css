@@ -21,20 +21,11 @@
 .tp-caption.slider_but1 a {
     background-color: #37c6f5;
 }
-.domain_search_home {
-    background-color: #37c6f5;
-}
 .section_title .big span {
     color: #37c6f5;
 }
 .section_title_line {
 	background:url(../../images/colors/liteblue/title_line1.png) 0 0 no-repeat;
-}
-.domain_search_home #domain-searchform #dsearch {
-    border: 1px solid #37c6f5;
-}
-.domain_search_home .drlist {
-    border: 1px solid #37c6f5;
 }
 .section_holder1 .box .arrow_up {
     border-bottom: 20px solid #ff6262;
@@ -171,6 +162,7 @@
 .section_holder5 .cont_holder.active h4 {
     color: #37c6f5;
 }
+
 .section_holder5 .cont_holder.active p {
     color: #37c6f5;
 }
@@ -557,9 +549,9 @@ ul.nav > li > a.active {
 /*hover styles*/	
 .section_holder33 .price_table:hover .custom-select3:after {
 	background: #37c6f5;
-	border-top: 1px solid #65d9ff;
-	border-right: 1px solid #65d9ff;
-	border-bottom: 1px solid #65d9ff;
+	border-top: 1px solid #7edfff;
+	border-right: 1px solid #7edfff;
+	border-bottom: 1px solid #7edfff;
 }
 .section_holder33 .price_table:hover {
 	background-color: #37c6f5;
@@ -567,13 +559,13 @@ ul.nav > li > a.active {
 	margin: 20px 0 0 0;
 }
 .section_holder33 .price_table:hover .title {
-	border-bottom: 1px solid #65d9ff;
+	border-bottom: 1px solid #7edfff;
 }
 .section_holder33 .price_table:hover .price {
-	border-bottom: 1px solid #65d9ff;
+	border-bottom: 1px solid #7edfff;
 }
 .section_holder33 .price_table:hover .plan_features li {
-	border-bottom: 1px solid #65d9ff;
+	border-bottom: 1px solid #7edfff;
 }
 .section_holder33 .price_table:hover .singup_but {
 	color: #272727;
@@ -581,19 +573,19 @@ ul.nav > li > a.active {
 }
 .section_holder33 .price_table:hover .custom-select3 select {
     background: none repeat scroll 0% 0% #37c6f5;
-    border: 1px solid #65d9ff;
+    border: 1px solid #7edfff;
 }
 
 /*active styles*/	
 .section_holder33 .price_table.custom-select3 select {
 	background-color: #37c6f5;
-	border: 1px solid #65d9ff;
+	border: 1px solid #7edfff;
 }
 .section_holder33 .price_table.active .custom-select3:after {
 	background: #37c6f5;
-	border-top: 1px solid #65d9ff;
-	border-right: 1px solid #65d9ff;
-	border-bottom: 1px solid #65d9ff;
+	border-top: 1px solid #7edfff;
+	border-right: 1px solid #7edfff;
+	border-bottom: 1px solid #7edfff;
 }
 .section_holder33 .price_table.active {
 	position:relative;
@@ -602,17 +594,17 @@ ul.nav > li > a.active {
 	margin: 0 0 0 0;
 }
 .section_holder33 .price_table.active .title {
-	border-bottom: 1px solid #65d9ff;
+	border-bottom: 1px solid #7edfff;
 }
 .section_holder33 .price_table.active .price {
-	border-bottom: 1px solid #65d9ff;
+	border-bottom: 1px solid #7edfff;
 }
 .section_holder33 .price_table.active .plan_features li {
-	border-bottom: 1px solid #65d9ff;
+	border-bottom: 1px solid #7edfff;
 }
 .section_holder33 .price_table.active .custom-select3 select {
     background: none repeat scroll 0% 0% #37c6f5;
-    border: 1px solid #65d9ff;
+    border: 1px solid #7edfff;
 }
 .section_holder33 .price_table .arrow {
 	background:url(../../images/colors/liteblue/site-img56.png) 0 0 no-repeat;
@@ -706,29 +698,29 @@ ul.nav > li > a.active {
 
 .section_holder2.two .one_fourth:hover .custom-select3 select {
 	background-color: #37c6f5;
-	border: 1px solid #65d9ff;
+	border: 1px solid #7edfff;
 }
 .section_holder2.two .one_fourth:hover .custom-select3:after {
 	background: #37c6f5;
-	border-top: 1px solid #65d9ff;
-	border-right: 1px solid #65d9ff;
-	border-bottom: 1px solid #65d9ff;
+	border-top: 1px solid #7edfff;
+	border-right: 1px solid #7edfff;
+	border-bottom: 1px solid #7edfff;
 }
 
 .section_holder2.two .one_fourth:hover .price_table {
 	background-color: #37c6f5;
 }
 .section_holder2.two .one_fourth:hover .title {
-	border-bottom: 1px solid #65d9ff;
+	border-bottom: 1px solid #7edfff;
 }
 .section_holder2.two .one_fourth:hover .price {
-	border-bottom: 1px solid #65d9ff;
+	border-bottom: 1px solid #7edfff;
 }
 .section_holder2.two .one_fourth.active .price {
-	border-bottom: 1px solid #65d9ff;
+	border-bottom: 1px solid #7edfff;
 }
 .section_holder2.two .one_fourth:hover .plan_features li {
-	border-bottom: 1px solid #65d9ff;
+	border-bottom: 1px solid #7edfff;
 }
 .section_holder2.two .one_fourth:hover .arrow_up {
 	border-bottom: 35px solid #37c6f5;
@@ -741,29 +733,29 @@ ul.nav > li > a.active {
 
 .section_holder2.two .one_fourth.active .custom-select3 select {
 	background-color: #37c6f5;
-	border: 1px solid #65d9ff;
+	border: 1px solid #7edfff;
 }
 .section_holder2.two .one_fourth.active .custom-select3:after {
 	background: #37c6f5;
-	border-top: 1px solid #65d9ff;
-	border-right: 1px solid #65d9ff;
-	border-bottom: 1px solid #65d9ff;
+	border-top: 1px solid #7edfff;
+	border-right: 1px solid #7edfff;
+	border-bottom: 1px solid #7edfff;
 }
 
 .section_holder2.two .one_fourth.active .price_table {
 	background-color: #37c6f5;
 }
 .section_holder2.two .one_fourth.active .title {
-	border-bottom: 1px solid #65d9ff;
+	border-bottom: 1px solid #7edfff;
 }
 .section_holder2.two .one_fourth.active .price {
-	border-bottom: 1px solid #65d9ff;
+	border-bottom: 1px solid #7edfff;
 }
 .section_holder2.two .one_fourth.active .price {
-	border-bottom: 1px solid #65d9ff;
+	border-bottom: 1px solid #7edfff;
 }
 .section_holder2.two .one_fourth.active .plan_features li {
-	border-bottom: 1px solid #65d9ff;
+	border-bottom: 1px solid #7edfff;
 }
 .section_holder2.two .one_fourth.active .arrow_up {
 	border-bottom: 35px solid #37c6f5;
@@ -775,7 +767,7 @@ ul.nav > li > a.active {
 .lt_title_line.two {
 	background:url(../../images/colors/liteblue/title_line7.png) center top no-repeat;
 }
-.green {
+.liteblue {
     color: #37c6f5;
 }
 
@@ -791,3 +783,73 @@ ul.nav > li > a.active {
 .section_holder21 .one_fourth:hover h5 {
     color: #37c6f5;
 }
+
+/*layout3*/
+.tp-caption.offerbadge4 {
+	background:url(../../images/colors/liteblue/badge_bg2.png) 0 0 no-repeat;
+}
+.section_holder38 .text_holder.active {
+    background-color: #37c6f5;
+}
+.section_holder38 .text_holder:hover {
+    background-color: #37c6f5;
+}
+.cl_title_line_left {
+	background:url(../../images/colors/liteblue/title_line11.png) 0 0 no-repeat;
+}
+.section_holder39 .offerbadge {
+	background:url(../../images/colors/liteblue/site-img77.png) 0 0 no-repeat;
+}
+.section_holder39 .text .big .hili {
+    color: #37c6f5;
+}
+
+.section_holder33.two .plan_info .singup_but {
+    background-color: #37c6f5;
+}
+.section_holder33 .price_table.active .singup_but {
+    background-color: #fff;
+}
+.section_holder33 .price_table:hover .singup_but {
+    background-color: #fff;
+}
+
+.section_holder33.two .price_table:hover .custom-select3:after {
+	background: #37c6f5;
+	border-top: 1px solid #7edfff;
+	border-right: 1px solid #7edfff;
+	border-bottom: 1px solid #7edfff;
+}
+
+.cl_title_line {
+	background:url(../../images/colors/liteblue/title_line10.png) center top no-repeat;
+}
+.section_holder40 .services_box.active {
+    background-color: #37c6f5;
+}
+.section_holder40 .services_box:hover {
+    background-color: #37c6f5;
+}
+.section_holder40 .list_holder:hover h5 {
+    color: #37c6f5;
+}
+.tabs11 li.active a {
+    color: #37c6f5;
+}
+.tabs11 li a:hover {
+    color: #37c6f5;
+}
+.cl_title_line_left.two {
+	background:url(../../images/colors/liteblue/title_line12.png) 0 0 no-repeat;
+}
+
+
+
+
+
+
+
+
+
+
+

@@ -21,20 +21,11 @@
 .tp-caption.slider_but1 a {
     background-color: #fc4242;
 }
-.domain_search_home {
-    background-color: #fc4242;
-}
 .section_title .big span {
     color: #fc4242;
 }
 .section_title_line {
 	background:url(../../images/colors/red/title_line1.png) 0 0 no-repeat;
-}
-.domain_search_home #domain-searchform #dsearch {
-    border: 1px solid #fc4242;
-}
-.domain_search_home .drlist {
-    border: 1px solid #fc4242;
 }
 .section_holder1 .box .arrow_up {
     border-bottom: 20px solid #ff6262;
@@ -791,3 +782,73 @@ ul.nav > li > a.active {
 .section_holder21 .one_fourth:hover h5 {
     color: #fc4242;
 }
+
+/*layout3*/
+.tp-caption.offerbadge4 {
+	background:url(../../images/colors/red/badge_bg2.png) 0 0 no-repeat;
+}
+.section_holder38 .text_holder.active {
+    background-color: #fc4242;
+}
+.section_holder38 .text_holder:hover {
+    background-color: #fc4242;
+}
+.cl_title_line_left {
+	background:url(../../images/colors/red/title_line11.png) 0 0 no-repeat;
+}
+.section_holder39 .offerbadge {
+	background:url(../../images/colors/red/site-img77.png) 0 0 no-repeat;
+}
+.section_holder39 .text .big .hili {
+    color: #fc4242;
+}
+
+.section_holder33.two .plan_info .singup_but {
+    background-color: #fc4242;
+}
+.section_holder33 .price_table.active .singup_but {
+    background-color: #fff;
+}
+.section_holder33 .price_table:hover .singup_but {
+    background-color: #fff;
+}
+
+.section_holder33.two .price_table:hover .custom-select3:after {
+	background: #fc4242;
+	border-top: 1px solid #ff7d7d;
+	border-right: 1px solid #ff7d7d;
+	border-bottom: 1px solid #ff7d7d;
+}
+
+.cl_title_line {
+	background:url(../../images/colors/red/title_line10.png) center top no-repeat;
+}
+.section_holder40 .services_box.active {
+    background-color: #fc4242;
+}
+.section_holder40 .services_box:hover {
+    background-color: #fc4242;
+}
+.section_holder40 .list_holder:hover h5 {
+    color: #fc4242;
+}
+.tabs11 li.active a {
+    color: #fc4242;
+}
+.tabs11 li a:hover {
+    color: #fc4242;
+}
+.cl_title_line_left.two {
+	background:url(../../images/colors/red/title_line12.png) 0 0 no-repeat;
+}
+
+
+
+
+
+
+
+
+
+
+

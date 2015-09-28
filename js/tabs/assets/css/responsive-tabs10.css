@@ -39,11 +39,11 @@
 }
 
 .tabs10 li a:hover {
-	color: #119ee7;
+	color: #fe7e20;
 }
 
 .tabs10 li.active a {
-	color: #119ee7;
+	color: #fe7e20;
 	background-color:#fff;
 	border-top: 1px solid #fff;
 	border-bottom: 1px solid #fff;
