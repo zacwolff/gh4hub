@@ -25,7 +25,7 @@ h2 {
 }
 
 h3 {
-	color: #CCC;
+	color: #2A83C1;
 	font-size: 1.8em;
 	font-weight: 400;
 	letter-spacing: normal;
@@ -35,7 +35,7 @@ h3 {
 }
 
 h4 {
-	color: #CCC;
+	color: #2A83C1;
 	font-size: 1.4em;
 	font-weight: 400;
 	letter-spacing: normal;
@@ -44,7 +44,7 @@ h4 {
 }
 
 h5 {
-	color: #CCC;
+	color: #2A83C1;
 	font-size: 1em;
 	font-weight: 600;
 	letter-spacing: normal;
@@ -1720,11 +1720,11 @@ html.boxed .pricing-table .plan, html.boxed .pricing-table h3 {
 }
 
 .featured-box-secundary h4 {
-	color: #CCC;
+	color: #2A83C1;
 }
 
 .featured-box-secundary .box-content {
-	border-top-color: #CCC;
+	border-top-color: #2A83C1;
 }
 
 /* Tertiary */
