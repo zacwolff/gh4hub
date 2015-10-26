@@ -1182,7 +1182,7 @@ li {
 }
 
 .inverted {
-	color: #FFF;
+	color: #000000;
 	display: inline-block;
 	padding-left: 10px;
 	padding-right: 10px;
@@ -1790,6 +1790,22 @@ html.boxed .pricing-table .plan, html.boxed .pricing-table h3 {
 	width: 35px;
 }
 
+.feature-box .feature-box-icon-blue {
+	background: #2A83C1;
+	border-radius: 35px;
+	color: #FFF;
+	display: inline-block;
+	float: left;
+	height: 35px;
+	line-height: 35px;
+	margin-right: 10px;
+	position: relative;
+	text-align: center;
+	top: 5px;
+	width: 35px;
+}
+
+
 .feature-box .feature-box-info {
 	padding-left: 50px;
 }
@@ -1797,6 +1813,10 @@ html.boxed .pricing-table .plan, html.boxed .pricing-table h3 {
 /* Secundary */
 .feature-box.secundary h4 {
 	color: #ffffff;
+}
+
+.feature-box.secondary h4 {
+	color: #2A83C1;
 }
 
 .feature-box.secundary .feature-box-icon {
@@ -1918,7 +1938,7 @@ html.boxed .pricing-table .plan, html.boxed .pricing-table h3 {
 }
 
 .thumb-info .thumb-info-type {
-	background-color: #CCC;
+	background-color: #2678B0;
 	border-radius: 2px;
 	display: inline-block;
 	float: left;
@@ -1967,7 +1987,7 @@ html.boxed .pricing-table .plan, html.boxed .pricing-table h3 {
 }
 
 .thumb-info-social-icons a {
-	background: #CCC;
+	background: #2A83C1;
 	border-radius: 25px;
 	display: inline-block;
 	height: 30px;
