@@ -1706,6 +1706,11 @@ html.boxed .pricing-table .plan, html.boxed .pricing-table h3 {
 	background-color: #E36159;
 }
 
+/* Pri Primary */
+.featured-box-pri-primary i.icon-featured {
+	background-color: #e516cd;
+}
+
 .featured-box-primary h4 {
 	color: #E36159;
 }
@@ -1716,7 +1721,7 @@ html.boxed .pricing-table .plan, html.boxed .pricing-table h3 {
 
 /* Secundary */
 .featured-box-secundary i.icon-featured {
-	background-color: #CCC;
+	background-color: #2A83C1;
 }
 
 .featured-box-secundary h4 {
